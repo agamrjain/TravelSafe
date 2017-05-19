@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\7c75c74eca45a3cce9e5b026f33afe302529e069\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e835dd388117fb4c752c780cae6d67c2e4bef36d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_091b024eff854dbd7c87f95bd5093bb8c25ff0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3c8479be0e88cf4e169e46fcee3c4b4b52a292cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\abe4925bc64ca04abc0cb4806825f4c60cd438ea\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c0b68fa6f18b80f3c52f4c6f1324d150b5d62d88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\abe4925bc64ca04abc0cb4806825f4c60cd438ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_8e56de40607ce630456d2c5e1f0032b0272d4e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\7c75c74eca45a3cce9e5b026f33afe302529e069\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_50c0062ba35a8e7dc09dd23545df3fab54e96de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\baa160975107503cfd4facc5831263c65e98e2a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_230a92b1f8c1a1cbc4bff6dc1bfb53ec0f44f77a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\2d069b5f6f4b9a9eb5a9653feec18a24cd9cfded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_7abfd01eaa8ed93dc1517ccb3313a801a6a795d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\04ce573a7a6054d6e8ec77cd8eac2b9a043c31e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_6d1d8bd0ada411de4f57e3887a910e6ad25dd83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\46678f704017549b0022f61acbb99a555876f6d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_8b96e1b71bcb1170766da39c0d232546b34a0318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\537c4aa1c6c7cc5fd1a36005e96c204eb3d9c0b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_b545078abf04926888f9344724b1f6fea612a107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\866e94288f1bc382d620ebe84f3ee04063ac9d3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_4851e4bfc581865660b74cf16d4cbc54dfa5ec6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_098f7b630c9a03cae135cf2d0bab4849adbff01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\e65f16df21363c3ba027d027f8fa4917917908da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_8f61cf628d6f8785afb26b583b198d9d9007884c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\2d069b5f6f4b9a9eb5a9653feec18a24cd9cfded\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_41ec78dbbaf5a3ef1e57d4e8bb4246891f7debd6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f666f44d4e97b120e07b851cca9c0b9f1dbacf0f">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_540605407bc260992f3660520434b5470a3c2f90\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\871a891e094959fbbbc9646b88f4e72537a5469a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_23cfd64dbf275ea59702705bace1e803939dd98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\9d66320225e5b65793dc7c86b651a92c933f4688\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_b5f187617d173ce777c98dea48f80d1fc97bbb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\8409e7b34bc35c8a07ed9b1b2436e0f3dbdec7eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\classes_b4c84c4f67be55ca46434280ed8c1a093c180a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\9d66320225e5b65793dc7c86b651a92c933f4688\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_da8b3352596c94d68696afe34607cd5c92dd5730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aja106\.android\build-cache\866e94288f1bc382d620ebe84f3ee04063ac9d3e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\aja106\AndroidStudioProjects\TravelSafeTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3970a3b4831d8b6e20f2c4ae9ca8f12407b90b18.jar" />
+    </item>
+
+</items>
