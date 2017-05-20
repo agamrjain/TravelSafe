@@ -28,7 +28,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btOff" />
 
         <ListView
-            android:id="@+id/newDeviceList"
+            android:id="@+id/newDeviceListViewUI"
             style="@style/Widget.AppCompat.ListView"
             android:layout_width="270dp"
             android:layout_height="140dp"
@@ -131,7 +131,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btOn" />
 
         <ListView
-            android:id="@+id/pairedDeviceList"
+            android:id="@+id/pairedDeviceListUI"
             style="@style/Widget.AppCompat.ListView"
             android:layout_width="270dp"
             android:layout_height="140dp"
